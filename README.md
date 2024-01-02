@@ -1,2 +1,2 @@
 # subcleaner
-A subtitle cleaner
+A script to remove advertisements from subtitles.
